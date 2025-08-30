@@ -90,13 +90,8 @@ _fzf_comprun() {
   esac
 }
 
-# ----- Zoxide Aliases-----
-alias cd='__zoxide_z'
-alias cdg='__zoxide_zi'
-
-
 # Shell integrations
 eval "$(fzf --zsh)"
 eval "$(starship init zsh)"
-eval "$(zoxide init zsh)"
+eval "$(zoxide init --cmd cd zsh)"
 
