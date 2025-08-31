@@ -63,7 +63,8 @@ zstyle ':fzf-tab:complete:__zoxide_z:*' fzf-preview 'ls --color $realpath'
 # Aliases
 alias ls='ls --color'
 alias vim='nvim'
-
+alias sync-notes='sh /home/gonzaloarielrossi/scripts/sync-obsidian-notes-to-github.sh'
+alias sync-dotfiles='sh /home/gonzaloarielrossi/scripts/sync-dotfiles-to-github.sh'
 # ----- Bat (better cat) -----
 export BAT_THEME=Dracula
 
