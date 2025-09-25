@@ -1,0 +1,54 @@
+{
+  "editor.minimap.enabled": false,
+  "git.autofetch": true,
+  "git.enableSmartCommit": false,
+  "editor.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.fontSize": 16,
+  "editor.fontLigatures": true,
+  "files.trimTrailingWhitespace": true,
+  "editor.cursorStyle": "line",
+  "editor.cursorWidth": 5,
+  "editor.renderWhitespace": "none",
+  "terminal.integrated.fontFamily": "JetBrains Mono, 'Courier New', monospace",
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.enabled": true,
+  "explorer.compactFolders": false,
+  "terminal.integrated.defaultProfile.linux": "bash",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "bash",
+      "icon": "terminal-bash"
+    },
+    "zsh": {
+      "path": "zsh"
+    }
+  },
+  "explorer.confirmDelete": true,
+  "sync.gist": "17d1b8795125bf5cd68b091f5631673f",
+  "editor.inlineSuggest.enabled": true,
+  "editor.stickyScroll.enabled": true,
+  "editor.cursorBlinking": "expand",
+  "terminal.integrated.cursorBlinking": true,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.linkedEditing": true,
+  "extensions.ignoreRecommendations": true,
+  "cSpell.language": "en,es",
+  "files.autoSave": "onFocusChange",
+  "editor.formatOnSave": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "One Dark Pro Flat",
+  "workbench.startupEditor": "none",
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.activityBar.orientation": "vertical",
+  "workbench.statusBar.visible": false,
+  "workbench.layoutControl.enabled": false,
+  "go.goroot": "/home/gonzaloarielrossi/.local/opt/go-v1.25.0",
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
+
