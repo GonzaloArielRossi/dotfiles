@@ -1,0 +1,1 @@
+/home/gonzaloarielrossi/.config/omarchy/current/theme/neovim.lua
